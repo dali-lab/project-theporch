@@ -122,6 +122,10 @@ footer {
 
 /* Cover 0*/
 
+#cover-0 {
+  color: grey;
+  font-size: larger;
+}
 #cover-0 .baselayer {
   background-color: #000000;
   background-image: url('../img/newCover.png');
