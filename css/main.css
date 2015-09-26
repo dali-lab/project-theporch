@@ -128,7 +128,7 @@ footer {
 }
 #cover-0 .baselayer {
   background-color: #000000;
-  background-image: url('../img/newCover.png');
+  background-image: url('../img/PorchLogo.png');
 }
 #cover-0 .covercontainer {
   z-index: 80;
@@ -141,7 +141,7 @@ footer {
 
 #cover-1 .baselayer {
   background-color: #000000;
-  background-image: url('../img/random_butterfly.jpg');
+  background-image: url('../img/BelayMinion.png');
 }
 #cover-1 .covercontainer {
   background-color: transparent;
